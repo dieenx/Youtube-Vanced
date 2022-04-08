@@ -31,7 +31,7 @@
 - thêm nhiều tùy chọn danh sách quảng cáo hơn, chẳng hạn như xem toàn bộ danh sách các kênh có trong danh sách cho phép và chuyển đổi quảng cáo video toàn cầu
 ### Download:
 > Note: Nên cài File "MicroG" trước để hoạt động ổn định, xong mới cài Youtube để tránh lỗi
-- **Download**: [MicroG-v0_2_23_220217.apk](https://github.com/dieenx/Youtube/releases/download/17%2F02%2F2022/MicroG-v0_2_23_220217.apk)
+- **Download**: [MicroG-v0_2_23_220217.apk](https://github.com/dieenx/Youtube-Vanced/releases/download/Youtube/MicroG-v0_2_23_220217.apk)
 
 | Download Light+ Black  | Download Light+ Dark |
 | ------------- |:-------------:|
@@ -39,3 +39,4 @@
 | [YouTube-Vanced-Black v7a.apk](https://github.com/dieenx/Youtube-Vanced/releases/download/Youtube/YouTube-Vanced-Black-17_03_38-v7a.apk)      |                  [YouTube-Vanced-Dark v7a.apk](https://github.com/dieenx/Youtube-Vanced/releases/download/Youtube/YouTube-Vanced-Dark-17_03_38--v7a.apk)     |
 | [YouTube-Vanced-Black x86.apk](https://github.com/dieenx/Youtube-Vanced/releases/download/Youtube/YouTube-Vanced-Black-17_03_38-x86.apk)      |                  [YouTube-Vanced-Dark x86.apk](https://github.com/dieenx/Youtube-Vanced/releases/download/Youtube/YouTube-Vanced-Dark-17_03_38-x86.apk)     |
     
+<br>**releases:** https://github.com/dieenx/Youtube-Vanced/releases
